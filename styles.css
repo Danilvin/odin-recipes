@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(236, 218, 139);
+    text-align: center;
+    font-size: 52px;
+}
+div {
+    text-align: center;
+}
+
+ul {
+    font-size: 32px;
+    display: inline-block;
+    text-align: left;
+}
+
+.banana {
+    background-color: rgba(124, 50, 50, 0.637);
+    color: yellow;
+}
+
+.lasagna {
+    background-color: red;
+    color: green;
+}
+
+.omelette {
+    background-color: whitesmoke;
+    color: rgb(209, 209, 18);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+.description {
+    font-size: 32px;
+    background-color: palevioletred;
+}
+
+ol {
+    background-color: green;
+    font-size: 26px;
+}
+
+.ingredients {
+    background-color: orange;
+}
